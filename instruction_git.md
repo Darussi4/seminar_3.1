@@ -1,6 +1,6 @@
 # **Инстрнукция по работе с Git**
 
-![Лого Git](https://fuzeservers.ru/wp-content/uploads/e/4/5/e4553ab0cd4508104a3196729458afab.png)
+![Логотип Git](Git.png)
 
 ## Основная инфорнмация про Git
 
